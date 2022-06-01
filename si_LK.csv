@@ -1,0 +1,46 @@
+Previous,කලින්
+Remove,"ඉවත් කරන්න"
+"Remove This Item","මෙම අංගය ඉවත් කරන්න"
+"Clear All","සියල්ල හිස් කරන්න"
+Email:,වි-තැපෑල:
+Password:,මුරපදය:
+"Password you set when creating account","ඔබ ගිණුම සෑදීමේදී සැකසූ මුරපදය"
+"Order Status","ඇණවුමේ තත්‍වය"
+"Backup options","උපස්ථ විකල්ප"
+Warning,අවවාදයයි
+Cancel,අවලංගු
+Ok,හරි
+"No records found.","වාර්තා හමු නොවිණි."
+"Recent items","මෑත අංග"
+"Show all...","සියල්ල පෙන්වන්න..."
+"Please specify Url.","ඒ.ස.නි. සඳහන් කරන්න"
+Close,වසන්න
+Next,ඊළඟ
+"Please wait...","කරුණාකර රැඳෙන්න..."
+Loading...,"පූරණය වෙමින්..."
+more,තව
+Translate,පරිවර්තනය
+Submit,යොමන්න
+"Please specify a valid phone number","වලංගු දු.ක. අංකයක් සඳහන් කරන්න"
+"Please specify a valid mobile number","වලංගු ජංගම අංකයක් යොදන්න"
+"Please enter a valid IP v4 address.","වලංගු අ.ජා.කෙ. 4 ලිපිනයක් යොදන්න."
+"Please enter a valid IP v6 address.","වලංගු අ.ජා.කෙ. 6 ලිපිනයක් යොදන්න."
+"Invalid format.","ආකෘතිය වලංගු නොවේ."
+"HTML tags are not allowed.","HTML අනන්‍ය සඳහා ඉඩ නොදේ."
+"Please select an option.","විකල්පයක් තෝරන්න."
+"Empty Value.","හිස් අගයකි."
+"Please enter a valid date.","වලංගු දිනයක් ඇතුල් කරන්න."
+"Please enter a valid zip code.","වලංගු තැ. කේතයක් ඇතුල් කරන්න."
+"Please select a file.","ගොනුවක් තෝරන්න."
+"The field isn't complete.","ක්‍ෂේත්‍රය සම්පූර්ණ නැත."
+"This is a required field.","මෙය ඇවැසි ක්‍ෂේත්‍රයකි."
+"Please enter a valid value, ex: 10,20,30","වලංගු අගයක් ඇතුල් කරන්න, උදා: 10,20,30"
+"Please enter a valid value from list","ලේඛනයෙන් වලංගු අගයක් යොදන්න"
+"Please enter a valid number.","වලංගු අගයක් ඇතුල් කරන්න."
+"This is required field","මෙය ඇවැසි ක්‍ෂේත්‍රයකි"
+"Please enter a valid email address.","වලංගු වි-තැපැල් ලිපිනයක් ඇතුල් කරන්න."
+"Please enter a valid URL.","වලංගු ඒ.ස.නි. ඇතුල් කරන්න."
+"Please enter a valid full date.","පූර්ණ වලංගු දිනයක් ඇතුල් කරන්න."
+"Please enter a valid month (1-12).","වලංගු මාසයක් ඇතුල් කරන්න (1-12)."
+"Please enter a valid year (1900-%1).","වලංගු අවුරුද්දක් ඇතුල් කරන්න (1900-%1)."
+"Please enter a valid day (1-%1).","වලංගු දිනයක් ඇතුල් කරන්න (1-%1)."
